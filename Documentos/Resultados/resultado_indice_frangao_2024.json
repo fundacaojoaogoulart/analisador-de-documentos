@@ -1,0 +1,14 @@
+{
+    "problema": "O dilema financeiro e as disparidades no comprometimento de renda para a compra de um frango assado entre os moradores do Rio de Janeiro, evidenciando desigualdades sociais e econômicas na cidade. Além disso, a emergência das dark kitchens e seu impacto no setor de alimentação e nos preços ao consumidor.",
+    "objetivo": "Construir um olhar sobre o comprometimento de renda da escolha de comprar um frango assado, compreender as disparidades econômicas entre diferentes bairros do Rio de Janeiro, inspirar políticas públicas e estratégias de mercado, e analisar o papel das dark kitchens na dinâmica do consumo.",
+    "solucao": "O Índice Frangão Carioca, uma razão numérica adimensional que relaciona o preço médio do frango assado e a renda média domiciliar per capita por bairro, permitindo analisar o comprometimento de renda com recortes por bairro e zona. A solução também inclui um Painel do Índice Frangão Carioca online para visualização interativa de dados.",
+    "metodologia": "A metodologia incluiu coleta de dados de preços de frangos assados diretamente do iFood (setembro de 2024), tratamento de dados com cálculo da renda média ajustada para 2024 (usando dados da PNADC 2023 e Censo 2010 com correção pelo IPCA) e do Índice Frangão Carioca (preço médio do frangão dividido pela renda média per capita do bairro, multiplicado por 100). As análises de dados foram descritivas (médias, características), comparativas (diferenças entre bairros) e com visualização gráfica de dados (gráficos e dashboard Power BI).",
+    "profissionais_tecnicos": [
+        "Economistas",
+        "Coordenador de Dados e Comportamento",
+        "Membros do Laboratório de Inteligência Fazendária (Lab.Faz)",
+        "Designer",
+        "Consultor Estratégico de Dados de Renda Média"
+    ],
+    "area_expertise": "Economia Urbana, Análise de Dados, Políticas Públicas e Desenvolvimento Social"
+}

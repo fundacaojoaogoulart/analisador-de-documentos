@@ -1,0 +1,12 @@
+{
+    "problema": "Falta de análise de dados sobre o Futebol no Rio; Falta de transparência sobre o investimento público em Futebol",
+    "objetivo": "Reunir dados sobre o Futebol no Rio para melhorar a eficiência na gestão pública e tornar público os esforço administrativos na realização de jogos de futebol",
+    "solucao": "Criação e vidulgação de um relatório de dados sobre o Futebol.",
+    "metodologia": "Coleta, tratamento, integração e análise de dados de Orgãos da Prefeitura envolvidos nos jogos; Coleta e análise de dados de fontes externas relacionadas aos principais times do Rio; Coleta e análise de dados relacionados aos principais estádios do Rio",
+    "profissionais_tecnicos": [
+        "Economista",
+        "Designer",
+        "Cientista de Dados"
+    ],
+    "area_expertise": "Ciência de Dados, Esportes, Gestão Pública e Economia"
+}

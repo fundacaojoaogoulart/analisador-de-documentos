@@ -1,0 +1,15 @@
+{
+    "problema": "Descentralização dos orgãos públicos; duplicidade de projetos; falta de orçamento para continuidade de projetos; falta de equipe especializada; projetos iniciados e não finalizados; ausência de incentivo de intraempreendedorismo.",
+    "objetivo": "Criação de um ambiente de inovação na Prefeitura, para incentivar o intraempreendedorismo e conectar projetos semelhantes e também a técnicos e serviços necessários para sua realização.",
+    "solucao": "Um sistema com um banco de projetos centralizado, que analisa a viabilidade de projetos, verifica e recomenda projetos semelhantes e de forma automática recomenda profissionais capacitados e cursos necessários para a equipe;um laboratório físico para encontros e desenvolvimento de projetos",
+    "metodologia": "Análise de viabilidade de técnica e financeira; Contratação de Capacitações; Contratação de Pessoal; Modelagem de algoritmo de recomendação; Mapeamento de competências",
+    "profissionais_tecnicos": [
+        "Especialista em Inteligência Artificial",
+        "Especialista em RH",
+        "Analista de Projetos",
+        "Gestor Público",
+        "Desenvolvedor de Software",
+        "Designer"
+    ],
+    "area_expertise": "Gestão Pública, Gestão de Projetos, Desenvolvimento de Software, Inteligência Artificial"
+}

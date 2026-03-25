@@ -1,0 +1,12 @@
+{
+    "problema": "Desigualdade de renda; Desigualdade espacial; População com baixa educação financeira; Ausência de explicações simples sobre economia; Disparidade do comprometimendo de renda entre pessoas de bairros diferentes",
+    "objetivo": "Demonstrar a partir do comprometimento de renda utilizando o frango assado como base, as disparidades econômicas entre diferentes bairros do Rio de Janeiro; inspirar políticas públicas; popularizar termos economicos como comprometimento de renda; permitir o contato do cidadão com educação financeira; conscientizar acerca das desigualdades socioeconomicas e espaciais",
+    "solucao": "Criação de um índice que mede o comprometimento de renda por bairro",
+    "metodologia": "Coleta de dados do frango assado no Ifood; Coleta de dados de renda por bairro; Correção dos dados pela inflação",
+    "profissionais_tecnicos": [
+        "Economista",
+        "Analista de Dados",
+        "Cientista Social"
+    ],
+    "area_expertise": "Economia Urbana, Análise de Dados e Ciências Sociais"
+}

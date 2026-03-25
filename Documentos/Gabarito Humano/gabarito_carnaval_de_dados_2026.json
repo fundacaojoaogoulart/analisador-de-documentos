@@ -1,0 +1,13 @@
+{
+    "problema": "Falta de dados para direcionar a gestão pública; Falta de transparência dos dados referentes ao Carnaval; Ausência de reconhecimento do valor cultural e econômico do Carnaval, por parte da população, para a Cidade",
+    "objetivo": "Reunir dados relevantes sobre o Carnaval e torná-los público.",
+    "solucao": "Criação e divulgação de um relatório anual de dados sobre o Carnaval.",
+    "metodologia": "Coleta, tratamento, integração e análise dos dados dos Orgãos públicos envolvidos no Carnaval.",
+    "profissionais_tecnicos": [
+        "Analista de Dados",
+        "Economista",
+        "Designer",
+        "Gestor público"
+    ],
+    "area_expertise": "Ciência de dados, Gestão Pública e Economia Criativa."
+}

@@ -1,0 +1,14 @@
+{
+    "problema": "Falta de transparência do investimento público com o dinheiro da arrecadação do IPTU; desigualdade de investimento público entre os bairros; desigualdade de renda entre os bairros; falta de uma sistematização da produção de cidade do ponto de vista do setor público",
+    "objetivo": "Sistematizar a produção de cidade e comprovar por dados, o benefício que é retornado ao cidadão do que é pago com o IPTU, através de investimentos públicos",
+    "solucao": "Criação de uma metodologia, mapeando etapas e o fluxo do capital na produção de cidade; criação de métricas para medir o retorno público de investimento por bairro",
+    "metodologia": "Coleta de dados fiscais, econômicos e sociais; cálculo de métricas; comparação entre bairros",
+    "profissionais_tecnicos": [
+        "Cientista Social",
+        "Geógrafo",
+        "Gestor Público",
+        "Economista",
+        "Cientista de Dados"
+    ],
+    "area_expertise": "Gestão pública, Planejamento Urbano, Ciências Sociais"
+}
